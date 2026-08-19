@@ -10,7 +10,7 @@ workflows:
         XCODE_WORKSPACE: "ios/App/App.xcworkspace"
         XCODE_SCHEME: "App"
         BUNDLE_ID: "com.neorcm.portal"
-      node: 18
+      node: 20
       xcode: latest
       cocoapods: default
     scripts:
