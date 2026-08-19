@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Neo RCM</string>
+    <string name="title_activity_main">Neo RCM</string>
+    <string name="package_name">com.neorcm.portal</string>
+    <string name="custom_url_scheme">com.neorcm.portal</string>
+</resources>

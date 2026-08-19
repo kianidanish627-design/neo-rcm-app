@@ -1,0 +1,25 @@
+{
+  "appId": "com.neorcm.portal",
+  "appName": "Neo RCM",
+  "webDir": "www",
+  "server": {
+    "url": "https://neorcmportal.com",
+    "cleartext": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "launchAutoHide": true,
+      "backgroundColor": "#0f766e",
+      "showSpinner": true,
+      "spinnerColor": "#ffffff"
+    },
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#0f766e"
+    },
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}
